@@ -41,7 +41,7 @@ export default () => (
                             <header className="minor">
                                 <h4>¿Porqué me pueden enviar un estudio de ultrasonido de tiroides?</h4>
                             </header>
-                                <p>Habitualmente se realizan cuando hay sospecha de función baja o alta de la Tiroides(hipo ó hiper) abultamiento del cuello en su porción anterior y por síntomas que puede detectar el médico.</p>
+                                <p>Habitualmente se realizan cuando hay sospecha de función baja o alta de la Tiroides(hipo ó hiper), abultamiento del cuello en su porción anterior y por síntomas que puede detectar el médico.</p>
                             </div>
                         </div>
                     </section>

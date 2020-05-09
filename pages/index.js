@@ -10,24 +10,6 @@ export default () => (
 
             <div id="main">
                 <section id="one" className="tiles">
-                    <article style={{backgroundImage: `url('/static/images/HumanBody_best.jpg')`}}>
-                        <header className="major">
-                            <h3>Ultrasonido músculo esquelético</h3>
-                        </header>
-                        <Link href="/me"><a className="link primary"></a></Link>
-                    </article>
-                    <article style={{backgroundImage: `url('/static/images/pregnancyNew_best.jpg')`}}>
-                        <header className="major">
-                            <h3>Ultrasonido Obstétrico</h3>
-                        </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
-                    </article>
-                    <article style={{backgroundImage: `url('/static/images/transductorModified_best.jpg')`}}>
-                        <header className="major">
-                            <h3>Ultrasonido Abdominal</h3>
-                        </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
-                    </article>
                     <article style={{backgroundImage: `url('/static/images/Doppler_best.jpg')`}}>
                         <header className="major">
                             <h3>Ultrasonido Tiroideo</h3>
@@ -35,12 +17,32 @@ export default () => (
                         </header>
                         <Link href="/tiroideo"><a className="link primary"></a></Link>
                     </article>
+                    
+                    <article style={{backgroundImage: `url('/static/images/pregnancyNew_best.jpg')`}}>
+                        <header className="major">
+                            <h3>Ultrasonido Obstétrico</h3>
+                        </header>
+                        <Link href="/obstetrico"><a className="link primary"></a></Link>
+                    </article>
+                    <article style={{backgroundImage: `url('/static/images/transductorModified_best.jpg')`}}>
+                        <header className="major">
+                            <h3>Ultrasonido Abdominal</h3>
+                        </header>
+                        <Link href="/landing"><a className="link primary"></a></Link>
+                    </article>
+                    <article style={{backgroundImage: `url('/static/images/musculoEsc.jpg')`}}>
+                        <header className="major">
+                            <h3>Ultrasonido músculo esquelético</h3>
+                        </header>
+                        <Link href="/musculo"><a className="link primary"></a></Link>
+                    </article>                    
                     <article style={{backgroundImage: `url('/static/images/transductorModified_best.jpg')`}}>
                         <header className="major">
                             <h3>¿Cómo funciona un equipo de ultrasonido?</h3>
                         </header>
                         <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
+                    
                     
                 </section>
                 <section id="two">
