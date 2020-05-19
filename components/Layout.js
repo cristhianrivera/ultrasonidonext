@@ -3,7 +3,7 @@ import stylesheet from 'styles/main.scss'
 
 import Header from './Header'
 import Menu from './Menu'
-import Contact from './Contact'
+import Contact from './Contact_beta'
 import Footer from './Footer'
 
 class Layout extends React.Component {
@@ -39,17 +39,25 @@ class Layout extends React.Component {
             <div className={`body ${this.state.loading} ${this.state.isMenuVisible ? 'is-menu-visible' : ''}`}>
                 <Head>
                     <title>Ultrasonido médico diagnóstico</title>
-                    <meta name="description" content="Ultrasonido Médico Diagnóstivo" />
+                    <meta name="description" content="estudios de ultrasonido médico con equipo de última generación en la ciudad de méxico" />
+                    <meta property="og:type" content="website" />
+                    <meta name="og:title" property="og:title" content="ultrasonido médico diagnóstico" />
+                    <meta name="og:description" property="og:description" content="estudios de ultrasonido médico en la ciudad de méxico" />
+                    <meta property="og:site_name" content="ultrasonido médico diagnóstico" />
+                    <meta property="og:url" content="http://www.ultrasonidomed.com/" />  
+                    <link rel="shortcut icon" href="/static/images/logoUM.jpg"></link>
+                    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="" />  
+
                     <link href="/static/css/skel.css" rel="stylesheet" />
                     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" />
                     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i" rel="stylesheet" />
                 </Head>
                 <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
-
                 <div id="wrapper">
                     {/* <Header onToggleMenu={this.handleToggleMenu} /> */}
                     {this.props.children}
-                    <Contact />
+                    {/* <Contact /> */}
                     <Footer />
                 </div>
                 <Menu onToggleMenu={this.handleToggleMenu} />

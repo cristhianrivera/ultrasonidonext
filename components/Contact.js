@@ -3,30 +3,33 @@ const Contact = (props) => (
         <div className="inner">
             <section>
                 <form method="post" action="#">
+                    <h2>Contacto:</h2>
                     <div className="field half first">
-                        <label htmlFor="name">Nombre</label>
-                        <input type="text" name="name" id="name" />
+                        <label htmlFor="name">Nombre*</label>
+                        <input type="text" name="name" id="name" required="yes"/>
                     </div>
                     <div className="field half">
-                        <label htmlFor="email">Teléfono</label>
-                        <input type="text" name="email" id="email" />
-                    </div>
-                    <div className="field half first">
-                        <label htmlFor="name">Correo</label>
-                        <input type="text" name="name" id="name" />
-                    </div>
-                    <div className="field half">
-                        <label htmlFor="email">Fecha de consulta</label>
-                        <input type="text" name="email" id="email" />
+                        <label htmlFor="phone">Teléfono</label>
+                        <input type="text" name="phone" id="phone" placeholder="Teléfono a 10 dígitos"/>
                     </div>
                     <div className="field">
-                        <label htmlFor="message">Mensaje</label>
-                        <textarea name="message" id="message" rows="6"></textarea>
+                        <label htmlFor="email">Correo electrónico*</label>
+                        <input type="text" name="email" id="email" placeholder="ejemplo@ejemplo.com" required="yes"/>
                     </div>
+                    {/* <div className="field half">
+                        <label htmlFor="email">Fecha de consulta</label>
+                        <input type="date" name="email" id="email" />
+                    </div> */}
+                    <div className="field" >
+                        <label htmlFor="message">Mensaje*</label>
+                        <textarea name="message" id="message" rows="6" required="yes"></textarea>
+                    </div>
+                    <p><em>*Campos obligatorios</em></p>
                     <ul className="actions">
                         <li><input type="submit" value="Enviar mensaje" className="special" /></li>
                         {/* <li><input type="reset" value="Clear" /></li> */}
                     </ul>
+                    
                 </form>
             </section>
             <section className="split">
@@ -34,7 +37,7 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-envelope"></span>
                         <h3>Correo electrónico</h3>
-                        <a href="#">info@ultrasonidomed.com</a>
+                        <a href="mailto:info@ultrasonidomed.com" target="_blank">info@ultrasonidomed.com</a>
                     </div>
                 </section>
                 <section>

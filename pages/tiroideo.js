@@ -13,7 +13,7 @@ export default () => (
 
         <div>
             <BannerLanding>
-                <h1>Ultrasonido Tiroideo</h1>
+                <h1>Ultrasonido tiroideo</h1>
                 <div className="content">
                 <p>Estudio de alta especialidad</p>
                 </div>
@@ -37,11 +37,11 @@ export default () => (
                             <header className="minor">
                                     <h4>¿Qué puede conocer el médico con base al estudio?</h4>
                             </header>
-                            <p>Se reportan características de normalidad y enfermedades de la glándula, desde: Bocio (crecimiento de la Tiroides), nodulaciones, quistes; simples y complejos, adenomas, calcificaciones, así como sospecha de cáncer.</p>
+                            <p>Se reportan características de normalidad y enfermedades de la glándula, desde: Bocio (crecimiento de la tiroides), nodulaciones, quistes; simples y complejos, adenomas, calcificaciones, así como sospecha de cáncer.</p>
                             <header className="minor">
                                 <h4>¿Porqué me pueden enviar un estudio de ultrasonido de tiroides?</h4>
                             </header>
-                                <p>Habitualmente se realizan cuando hay sospecha de función baja o alta de la Tiroides(hipo ó hiper), abultamiento del cuello en su porción anterior y por síntomas que puede detectar el médico.</p>
+                                <p>Habitualmente se realizan cuando hay sospecha de función baja o alta de la tiroides(hipo ó hiper), abultamiento del cuello en su porción anterior y por síntomas que puede detectar el médico.</p>
                             </div>
                         </div>
                     </section>

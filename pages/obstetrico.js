@@ -7,13 +7,13 @@ import BannerLanding from '../components/BannerLanding'
 export default () => (
     <Layout>
         <Head>
-            <title>Ultrasonido Obstétrico</title>
+            <title>Ultrasonido obstétrico</title>
             <meta name="ultrasonido obstetrico" content="Landing Page" />
         </Head>
 
         <div>
             <BannerLanding>
-                <h1>Ultrasonido Obstétrico</h1>
+                <h1>Ultrasonido obstétrico</h1>
                 <div className="content">
                 <p>Estudio de alta especialidad</p>
                 </div>

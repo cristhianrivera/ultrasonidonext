@@ -12,6 +12,34 @@
 		overflow-x: hidden;
 		color: solid _palette(border);
 
+		>.outer {
+			@include vendor('display', 'flex');
+			padding: 0 !important;
+			> .split {
+				padding: 0;
+
+				> * {
+					@include padding(3em, 0, (0, 0, 0, 3em));
+					position: relative;
+
+					&:before {
+						border-top: solid 1px _palette(border);
+						content: '';
+						display: block;
+						margin-left: -3em;
+						position: absolute;
+						top: 0;
+						width: calc(100vw + 3em);
+					}
+				}
+
+				> :first-child {
+					&:before {
+						display: none;
+					}
+				}
+			}
+		}
 		> .inner {
 			@include vendor('display', 'flex');
 			padding: 0 !important;			

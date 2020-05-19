@@ -12,7 +12,7 @@ export default () => (
                 <section id="one" className="tiles">
                     <article style={{backgroundImage: `url('/static/images/Doppler_best.jpg')`}}>
                         <header className="major">
-                            <h3>Ultrasonido Tiroideo</h3>
+                            <h3>Ultrasonido tiroideo</h3>
                             {/* <p>Nisl sed aliquam</p> */}
                         </header>
                         <Link href="/tiroideo"><a className="link primary"></a></Link>
@@ -20,27 +20,27 @@ export default () => (
                     
                     <article style={{backgroundImage: `url('/static/images/pregnancyNew_best.jpg')`}}>
                         <header className="major">
-                            <h3>Ultrasonido Obstétrico</h3>
+                            <h3>Ultrasonido obstétrico</h3>
                         </header>
                         <Link href="/obstetrico"><a className="link primary"></a></Link>
                     </article>
-                    <article style={{backgroundImage: `url('/static/images/transductorModified_best.jpg')`}}>
+                    <article style={{backgroundImage: `url('/static/images/abdominal_idx.jpg')`}}>
                         <header className="major">
-                            <h3>Ultrasonido Abdominal</h3>
+                            <h3>Ultrasonido abdominal</h3>
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="/abdominal"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/musculoEsc.jpg')`}}>
                         <header className="major">
-                            <h3>Ultrasonido músculo esquelético</h3>
+                            <h3>Ultrasonido musculoesquelético</h3>
                         </header>
                         <Link href="/musculo"><a className="link primary"></a></Link>
                     </article>                    
-                    <article style={{backgroundImage: `url('/static/images/transductorModified_best.jpg')`}}>
+                    <article style={{backgroundImage: `url('/static/images/maths.jpg')`}}>
                         <header className="major">
                             <h3>¿Cómo funciona un equipo de ultrasonido?</h3>
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="/funciona-ultrasonido"><a className="link primary"></a></Link>
                     </article>
                     
                     
