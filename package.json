@@ -1,7 +1,10 @@
 {
   "name": "nextjs-forty",
   "version": "1.0.0",
-  "description": "",
+  "engines": {
+    "node": "12.16.x"
+  },
+  "description": "ultrasonidomed",
   "main": "index.js",
   "scripts": {
     "dev": "next",
