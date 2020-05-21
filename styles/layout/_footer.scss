@@ -8,6 +8,10 @@
 
 	#footer {
 		background-color: _palette(bg);
+		li{
+			margin: 0.5em;
+		}
+
 		.copyright {
 			font-size: 0.8em;
 			list-style: none;
@@ -20,12 +24,14 @@
 				line-height: 1;
 				margin-left: 1em;
 				padding-left: 1em;
+				margin: 1em;
 
 				&:first-child {
 					border-left: 0;
 					margin-left: 0;
 					padding-left: 0;
 				}
+
 			}
 		}
 
