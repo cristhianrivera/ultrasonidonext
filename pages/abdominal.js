@@ -22,9 +22,9 @@ export default () => (
             <div id="main">
                 <section id="one">
                     <div className="inner">
-                        <header className="major">
+                        
                             <h3>¿Cómo es un estudio de ultrasonido abdominal?</h3>
-                        </header>
+                        
                         <p>El ultrasonido abdominal consiste en examinar las imágenes obtenidas a través del equipo de ultrasonido de órganos intra-abdominales como: hígado, vesícula, páncreas, bazo, riñones, estructuras vasculares(abdomen superior), etc.</p>
                     </div>
                 </section>

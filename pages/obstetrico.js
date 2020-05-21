@@ -22,9 +22,9 @@ export default () => (
             <div id="main">
                 <section id="one">
                     <div className="inner">
-                        <header className="major">
+                        
                             <h3>¿Cómo es un estudio de ultrasonido obstétrico?</h3>
-                        </header>
+                        
                         <p>Es una captura de imágenes al nivel del vientre por medio de un equipo de ultrasonido. El estudio es de máxima seguridad para la madre y el bebé. Durante el estudio se examina la anatomía del bebé (feto), características de la placenta, útero y anexos. También, de acuerdo a la edad gestacional, permite descubrir alteraciones en el del desarrollo del bebé.</p>
                     </div>
                 </section>

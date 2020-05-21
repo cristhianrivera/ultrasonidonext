@@ -22,9 +22,9 @@ export default () => (
             <div id="main">
                 <section id="one">
                     <div className="inner">
-                        <header className="major">
+                        
                             <h3>¿Cómo es un estudio de ultrasonido musculoesquelético?</h3>
-                        </header>
+                        
                         <p>Es un estudio de imagen, no invasivo y completamente indoloro que sirve para examinar los elementos blandos de los que están formados las articulaciones, estos elementos incluyen: músculos, tendones, ligamentos, etc. </p>
                     </div>
                 </section>

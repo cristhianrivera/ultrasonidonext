@@ -8,3 +8,6 @@ package-lock.json
 node_modules/
 .next/
 *.log
+pages/elements.js
+pages/generic.js
+pages/landing.js

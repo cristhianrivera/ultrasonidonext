@@ -22,9 +22,9 @@ export default () => (
             <div id="main">
                 <section id="one">
                     <div className="inner">
-                        <header className="major">
+                        
                             <h3>¿Cómo es el estudio de tiroides?</h3>
-                        </header>
+                        
                         <p>Es un estudio de imagen, no invasivo, para examinar la forma y posición de la glándula tiroides, y poder descartar enfermedades propias.</p>
                     </div>
                 </section>

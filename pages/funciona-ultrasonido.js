@@ -12,9 +12,9 @@ export default () => (
         <div id="main" className="alt">
             <section id="one">
                 <div className="inner">
-                    <header className="major">
+                    
                         <h1>¿Cómo funciona un equipo de ultrasonido?</h1>
-                    </header>
+                    
                     <span className="image main"><img src="/static/images/sound.jpg" alt="ondas de sonido" /></span>
                     <p class="excert">
                     Primero, el sonido es una vibración que es transmitida a través de un medio(el aire). Todas las vibraciones tienen una frecuencia y esta medida hace referencia a las vibraciones por segundo. <br/>
