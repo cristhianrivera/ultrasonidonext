@@ -45,7 +45,7 @@ class Layout extends React.Component {
                                 window.dataLayer = window.dataLayer || [];
                                 function gtag(){dataLayer.push(arguments);}
                                 gtag('js', new Date());
-                                gtag('config', '[Tracking ID]');
+                                gtag('config', 'UA-109100491-2');
                             `,
                         }}/>
                     <title>Ultrasonido médico diagnóstico</title>
