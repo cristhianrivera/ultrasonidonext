@@ -38,6 +38,16 @@ class Layout extends React.Component {
         return (
             <div className={`body ${this.state.loading} ${this.state.isMenuVisible ? 'is-menu-visible' : ''}`}>
                 <Head>
+                    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109100491-2"></script>
+                    <script
+                        dangerouslySetInnerHTML={{
+                        __html: `
+                                window.dataLayer = window.dataLayer || [];
+                                function gtag(){dataLayer.push(arguments);}
+                                gtag('js', new Date());
+                                gtag('config', '[Tracking ID]');
+                            `,
+                        }}/>
                     <title>Ultrasonido médico diagnóstico</title>
                     <meta name="description" content="estudios de ultrasonido médico con equipo de última generación en la ciudad de méxico" />
                     <meta property="og:type" content="website" />

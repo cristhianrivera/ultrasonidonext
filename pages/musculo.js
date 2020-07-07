@@ -30,7 +30,7 @@ export default () => (
                 </section>
                 <section id="two" className="spotlights">
                     <section>   
-                        <div className="u"><span className="image fit"><img src="/static/images/musculoEsc1.jpg" alt="ultrasonido musculoesquelético" title='ultrasonido músculo-esquelético'/></span></div>
+                        <div className="u"><span className="image fit"><img src="/static/images/MusculoEsq.png" alt="ultrasonido musculoesquelético" title='ultrasonido músculo-esquelético'/></span></div>
                         <div className="content">
                             <div className="inner">
                             <header className="minor">

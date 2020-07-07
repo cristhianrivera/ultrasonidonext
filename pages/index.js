@@ -42,20 +42,31 @@ export default () => (
                         </header>
                         <Link href="/funciona-ultrasonido"><a className="link primary"></a></Link>
                     </article>
-                    
-                    
                 </section>
                 <section id="two">
                     <div className="inner">
                         <header className="major">
+                            <h3>Dr. Rafael JIménez</h3>
+                            <br></br>
+                            <p>Curriculum:</p>
+                            
+                        </header>
+                        <ul className="alt">
+                            <li>Médico General por la Universidad Nacional Autónoma de México (UNAM).</li>
+                            <li>Médico certificado por International Certification and Education Accreditation Foundation (ICEAF).</li>
+                            <li>Médico Ultrasonografísta AMUSEM.</li>
+                            <li>Médico adscrito al ISSSTE.</li>
+                        </ul>
+                    </div>
+                    {/* <div className="inner">
+                        <header className="major">
                             <h2>¿Qué es el ultrasonido?</h2>
                         </header>
                         <p>El ultrasonido es un tipo de onda sonora de alta frecuencia que, en medicina, se utiliza para rehabilitación y diagnósis. Éste último es una herramienta para analizar estructuras internas del cuerpo humano, como: corazón, vasos sanguineos, riñones, hígado, así como otros órganos. Durante el embarazo, los médicos también utilizan el ultrasonido para dar seguimiento al bebé.</p>
-                        {/* <ul className="actions">
-                            <li><Link href="/landing"><a className="button next">Get Started</a></Link></li>
-                        </ul> */}
-                    </div>
+                    </div> */}
+
                 </section>
+                
             </div>
 
         </div>
