@@ -5,6 +5,7 @@ import Banner from '../components/Banner'
 
 export default () => (
     <Layout>
+
         <div>
             <Banner />
 
