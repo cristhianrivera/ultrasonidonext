@@ -5,8 +5,8 @@ import Layout from '../components/Layout'
 export default () => (
     <Layout>
         <Head>
-            <title>Generic Page</title>
-            <meta name="Cómo funciona un equipo de ultrasonido" content="cómo funciona un equipo de ultrasonido" />
+            <title>Funcionamiento de un equipo de ultrasonido</title>
+            <meta name="description" content="conoce cómo funciona un equipo de ultrasonido" />
         </Head>
 
         <div id="main" className="alt">

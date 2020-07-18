@@ -3,7 +3,7 @@ const Banner = (props) => (
     <section id="banner" className="major">
         <div className="inner">
             <header className="major">
-                <h1><img src="/static/images/logoUM horizontal.png" width="15%" height="15%" alt="" class="center"/> <br></br>Ultrasonido médico diagnóstico </h1>
+                <h1><img src="/static/images/logoUM_horizontal.png" width="17%" height="17%" alt="" class="center"/> <br></br>Ultrasonido médico diagnóstico </h1>
             </header>
 
             

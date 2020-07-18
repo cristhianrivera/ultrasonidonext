@@ -3,6 +3,8 @@ import Link from 'next/link'
 import Layout from '../components/Layout'
 import Banner from '../components/Banner'
 
+import React from 'react';
+
 export default () => (
     <Layout>
 
@@ -18,7 +20,6 @@ export default () => (
                         </header>
                         <Link href="/tiroideo"><a className="link primary"></a></Link>
                     </article>
-                    
                     <article style={{backgroundImage: `url('/static/images/pregnancyNew_best.jpg')`}}>
                         <header className="major">
                             <h3>Ultrasonido obstétrico</h3>

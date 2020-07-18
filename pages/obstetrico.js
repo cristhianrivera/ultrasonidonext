@@ -8,7 +8,7 @@ export default () => (
     <Layout>
         <Head>
             <title>Ultrasonido obstétrico</title>
-            <meta name="ultrasonido obstetrico" content="Landing Page" />
+            <meta name="description" content="cómo es un estudio de ultrasonido obstétrico" />
         </Head>
 
         <div>
