@@ -8,7 +8,7 @@ export default () => (
     <Layout>
         <Head>
             <title>Ultrasonido de tiroides</title>
-            <meta name="description" content="conoce las características de un ultrasonido de tiroides" />
+            <meta name="description" content="Conoce las características y la utilidad de un ultrasonido de tiroides" />
         </Head>
 
         <div>

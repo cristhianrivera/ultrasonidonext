@@ -49,15 +49,16 @@ class Layout extends React.Component {
                             `,
                         }}/>
                     <title>Ultrasonido médico diagnóstico en la Ciudad de México</title>
-                    <meta name="description" content="estudios de ultrasonido médico con equipo de última generación en la ciudad de méxico" />
+                    <meta name="description" content="Ultrasonido médico con equipo de última generación en la colonia Roma CDMX." />
                     <meta property="og:type" content="website" />
                     <meta name="og:title" property="og:title" content="ultrasonido médico diagnóstico" />
-                    <meta name="og:description" property="og:description" content="estudios de ultrasonido médico en la ciudad de méxico" />
+                    <meta name="og:description" property="og:description" content="Ultrasonido médico con equipo de última generación en la colonia Roma CDMX." />
                     <meta property="og:site_name" content="ultrasonido médico diagnóstico" />
+                    <meta property="url" content="https://www.ultrasonidomed.com/" />  
                     <meta property="og:url" content="https://www.ultrasonidomed.com/" />  
                     <link rel="shortcut icon" href="/static/images/logoUM.jpg"></link>
                     <meta property="og:type" content="website"/>
-                    <meta property="og:image" content="" />  
+                    <meta property="og:image" content="/static/images/logoUM.jpg" />  
                     <meta name="ultrasonido médico diagnóstico" content="información sobre consultorio médico especializado en ultrasonido médico diagnóstico en la Colonia Roma, Ciudad de México" />
                     <link href="/static/css/skel.css" rel="stylesheet" />
                     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" />

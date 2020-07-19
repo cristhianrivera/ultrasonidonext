@@ -8,7 +8,7 @@ export default () => (
     <Layout>
         <Head>
             <title>Ultrasonido musculoesquelético</title>
-            <meta name="description" content="conoce para qué sirve un ultrasonido múculo esquelético" />
+            <meta name="description" content="conoce cómo es y para qué sirve un ultrasonido músculo esquelético" />
         </Head>
 
         <div>

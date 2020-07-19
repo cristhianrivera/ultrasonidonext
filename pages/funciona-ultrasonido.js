@@ -5,8 +5,8 @@ import Layout from '../components/Layout'
 export default () => (
     <Layout>
         <Head>
-            <title>Funcionamiento de un equipo de ultrasonido</title>
-            <meta name="description" content="conoce cómo funciona un equipo de ultrasonido" />
+            <title>Cómo funciona un equipo de ultrasonido</title>
+            <meta name="description" content="Conoce cómo funciona y porqué es 100% seguro un equipo de ultrasonido" />
         </Head>
 
         <div id="main" className="alt">
@@ -45,7 +45,7 @@ export default () => (
                         <li>Las ondas son procesadas (muchas mátematicas y física aquí <span class="lnr lnr-smile"></span>) y se generan imágenes que el médico analiza.</li>
                     </ul>
                     <br/>
-                    Toma en cuenta que, <b>¡todo el proceso sucede en fracciones de segundo!</b>, y aún mejor, un ultrasonido diagnóstico es 100% seguro.
+                    Toma en cuenta que, <b>¡todo el proceso sucede en fracciones de segundo!</b>, y aún mejor, un ultrasonido diagnóstico es 100% seguro (son solo ondas que no podemos escuchar).
                     </p>
                     <blockquote>Solo falta un componente, el que da sentido a las imágenes y sabe qué es importante analizar: <b>el médico</b>.</blockquote>
                     <a href="/" className="button small icon fa-arrow-left">Ir a inicio</a>

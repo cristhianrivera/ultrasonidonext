@@ -8,7 +8,7 @@ export default () => (
     <Layout>
         <Head>
             <title>Ultrasonido abdominal</title>
-            <meta name="description" content="conoce qué es y para qué sirve un ultrasonido abdominal" />
+            <meta name="description" content="Conoce qué es y para qué sirve un ultrasonido abdominal" />
         </Head>
 
         <div>
