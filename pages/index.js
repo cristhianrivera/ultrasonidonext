@@ -26,19 +26,19 @@ export default () => (
                         </header>
                         <Link href="/obstetrico"><a className="link primary"></a></Link>
                     </article>
-                    <article style={{backgroundImage: `url('/static/images/abdominal_idx.jpg')`}}>
+                    <article style={{backgroundImage: `url('/static/images/abdominal_idx_optimized.jpg')`}}>
                         <header className="major">
                             <h3>Ultrasonido abdominal</h3>
                         </header>
                         <Link href="/abdominal"><a className="link primary"></a></Link>
                     </article>
-                    <article style={{backgroundImage: `url('/static/images/musculoEsc.jpg')`}}>
+                    <article style={{backgroundImage: `url('/static/images/musculoEsc_optimized.jpg')`}}>
                         <header className="major">
                             <h3>Ultrasonido musculoesquelético</h3>
                         </header>
                         <Link href="/musculo"><a className="link primary"></a></Link>
                     </article>                    
-                    <article style={{backgroundImage: `url('/static/images/maths.jpg')`}}>
+                    <article style={{backgroundImage: `url('/static/images/maths_optimized.jpg')`}}>
                         <header className="major">
                             <h3>¿Cómo funciona un equipo de ultrasonido?</h3>
                         </header>

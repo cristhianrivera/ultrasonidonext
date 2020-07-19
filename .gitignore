@@ -11,3 +11,6 @@ node_modules/
 pages/elements.js
 pages/generic.js
 pages/landing.js
+static/images/maths.jpg
+static/images/abdominal_idx.jpg
+static/images/musculoEsc.jpg
