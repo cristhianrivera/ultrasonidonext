@@ -49,7 +49,7 @@ class Layout extends React.Component {
                             `,
                         }}/>
                     <title>Ultrasonido médico diagnóstico en la Ciudad de México</title>
-                    <meta name="description" content="Ultrasonido médico diagnótico con equipo de última generación en la colonia Roma CDMX." />
+                    <meta name="description" content="Ultrasonido médico diagnóstico con equipo de última generación en la colonia Roma CDMX." />
                     <meta property="og:type" content="website" />
                     <meta name="og:title" property="og:title" content="ultrasonido médico diagnóstico" />
                     <meta name="og:description" property="og:description" content="Ultrasonido médico con equipo de última generación en la colonia Roma CDMX." />
