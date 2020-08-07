@@ -14,7 +14,7 @@ const BannerLanding = (props) => (
             <ul className="actions" align='right'>
                 {/* <Link href="/"><a className="button small"> Ir a inicio</a></Link> */}
                 {/* <Link href="/" className="button icon fa-arrow"><a>Ir a inicio</a></Link> */}
-                <li><a href="/" className="button small icon fa-arrow-left">Ir a inicio</a></li>
+                <li><a href="/" className="button small icon fa-arrow-left" title="Ir a inicio">Ir a inicio</a></li>
             </ul>
         </div>
     </section>

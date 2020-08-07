@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.ultrasonidomed.com/static/sitemap.xml
+Sitemap: https://www.ultrasonidomed.com/sitemap.xml
 Host: https://www.ultrasonidomed.com
