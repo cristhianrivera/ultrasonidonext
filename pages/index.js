@@ -71,7 +71,7 @@ export default () => (
                 <section id="two">
                     <div className="inner">
                         <header className="major">
-                            <h3>Dr. Rafael JIménez</h3>
+                            <h3>Dr. Rafael Jiménez</h3>
                             <br></br>
                             <p>Curriculum:</p>
                             
