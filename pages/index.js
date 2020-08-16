@@ -54,15 +54,16 @@ export default () => (
 
                         </header>
                         <Link href="/musculo"><a className="link primary" title="Más información sobre el ultrasonido musculoesquelético"></a></Link>
-                    </article>                    
+                    </article>
+
                     <article style={{backgroundImage: `url('/static/images/maths_optimized.jpg')`}}>
                         <header className="major">
                             <h3>¿Cómo funciona un equipo de ultrasonido?</h3>
                             
-                            <div className="inner">
-                            <p>Un estudio de ultrasonido médico es 100% seguro. Conoce cómo se generan las imágenes en un equipo de ultrasonido. </p>
-                            <Link href=""><a className="button" title="Leer más">Leer más</a></Link>
-                            </div>
+                            {/* <div className="inner"> */}
+                            {/* <p>Un estudio de ultrasonido médico es 100% seguro. Conoce cómo se generan las imágenes en un equipo de ultrasonido. </p> */}
+                            {/* <Link href=""><a className="button" title="Leer más">Leer más</a></Link> */}
+                            {/* </div> */}
 
                         </header>
                         <Link href="/funciona-ultrasonido"><a className="link primary" title="¿Cómo funciona un equipo de ultrasonido?"></a></Link>
