@@ -9,6 +9,7 @@ export default () => (
         <Head>
             <title>Ultrasonido abdominal</title>
             <meta name="description" content="Conoce qué es y para qué sirve un ultrasonido abdominal" />
+            <meta name="keywords" content="ultrasonido abdominal, que es un ultrasonido abdominal"/>
         </Head>
 
         <div>

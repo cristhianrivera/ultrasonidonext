@@ -9,6 +9,7 @@ export default () => (
         <Head>
             <title>Ultrasonido de tiroides</title>
             <meta name="description" content="Conoce las características y la utilidad de un ultrasonido de tiroides" />
+            <meta name="keywords" content="ultrasonido tiroideo, ultrasonido tiroideo para que sirve"/>
         </Head>
 
         <div>

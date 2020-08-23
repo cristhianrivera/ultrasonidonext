@@ -7,6 +7,7 @@ export default () => (
         <Head>
             <title>Cómo funciona un equipo de ultrasonido</title>
             <meta name="description" content="Conoce cómo funciona y porqué es 100% seguro un equipo de ultrasonido" />
+            <meta name="keywords" content="ultrasonido como funciona, que es el ultrasonido"/>
         </Head>
 
         <div id="main" className="alt">
