@@ -31,7 +31,7 @@ export default () => (
                 </section>
                 <section id="two" className="spotlights">
                     <section>   
-                            <div className="u"><span className="image fit"><img src="/static/images/4d.jpg" alt="ultrasonido obstetrico" title='ultrasonido obstétrico'/></span></div>
+                            <div className="u"><span className="image fit"><img src="/static/images/4d1.jpg" alt="ultrasonido obstetrico" title='ultrasonido obstétrico'/></span></div>
                         <div className="content">
                             <div className="inner">
                             <header className="minor">

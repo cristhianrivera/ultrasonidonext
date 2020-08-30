@@ -5,6 +5,11 @@ const Banner = (props) => (
             <header className="major">
                 <h1><img src="/static/images/logoUM_horizontal_small.png"  alt="ultrasonido médico diagnótico en la colonia roma CDMX" class="center"/> <br></br>
                 Ultrasonido médico diagnóstico en la Ciudad de México</h1>
+                <div className="inner">
+                    <p>
+                    Estudios de ultrasonido médico con equipo de última generación en la Ciudad de México.
+                    </p>
+                </div>
             </header>
 
             

@@ -23,6 +23,16 @@ export default () => (
                         </header>
                         <Link href="/tiroideo"><a className="link primary" title="Más información sobre el ultrasonido tiroideo"></a></Link>                        
                     </article>
+                    <article style={{backgroundImage: `url('/static/images/4d1.jpg')`}}>
+                        <header className="major">
+                            <h3>Ultrasonido en 4d</h3>
+                            <div className="inner">
+                            <p>Una ecografía 3D produce una imagen del feto fija y con volumen. Una ecografía en 4D es una ecografía 3D con movimiento, es decir, un vídeo.</p>
+                            <Link href=""><a className="button" title="Leer más">Leer más</a></Link>
+                            </div>
+                        </header>
+                        <Link href="/ultrasonido_4d"><a className="link primary" title="Más información sobre el ultrasonido 4d"></a></Link>
+                    </article>
                     <article style={{backgroundImage: `url('/static/images/pregnancyNew_best.jpg')`}}>
                         <header className="major">
                             <h3>Ultrasonido obstétrico</h3>
@@ -60,10 +70,10 @@ export default () => (
                         <header className="major">
                             <h3>¿Cómo funciona un equipo de ultrasonido?</h3>
                             
-                            {/* <div className="inner"> */}
-                            {/* <p>Un estudio de ultrasonido médico es 100% seguro. Conoce cómo se generan las imágenes en un equipo de ultrasonido. </p> */}
-                            {/* <Link href=""><a className="button" title="Leer más">Leer más</a></Link> */}
-                            {/* </div> */}
+                            <div className="inner">
+                            <p>Un estudio de ultrasonido médico es 100% seguro. Conoce cómo se generan las imágenes en un equipo de ultrasonido. </p>
+                            <Link href=""><a className="button" title="Leer más">Leer más</a></Link>
+                            </div>
 
                         </header>
                         <Link href="/funciona-ultrasonido"><a className="link primary" title="¿Cómo funciona un equipo de ultrasonido?"></a></Link>
