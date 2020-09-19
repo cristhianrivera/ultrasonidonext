@@ -4,34 +4,42 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>https://www.ultrasonidomed.com/</loc>
-  <lastmod>2020-07-19T14:33:15+00:00</lastmod>
+  <lastmod>2020-09-19T10:05:18+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.ultrasonidomed.com/tiroideo</loc>
-  <lastmod>2020-07-19T14:33:15+00:00</lastmod>
+  <lastmod>2020-09-19T10:05:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.ultrasonidomed.com/ultrasonido_4d</loc>
+  <lastmod>2020-09-19T10:05:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.ultrasonidomed.com/obstetrico</loc>
-  <lastmod>2020-07-19T14:33:15+00:00</lastmod>
+  <lastmod>2020-09-19T10:05:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.ultrasonidomed.com/abdominal</loc>
-  <lastmod>2020-07-19T14:33:15+00:00</lastmod>
+  <lastmod>2020-09-19T10:05:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.ultrasonidomed.com/musculo</loc>
-  <lastmod>2020-07-19T14:33:15+00:00</lastmod>
+  <lastmod>2020-09-19T10:05:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.ultrasonidomed.com/funciona-ultrasonido</loc>
-  <lastmod>2020-07-19T14:33:15+00:00</lastmod>
+  <lastmod>2020-09-19T10:05:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
