@@ -9,7 +9,7 @@ export default () => (
         <Head>
             <title>Ultrasonido obstétrico</title>
             <meta name="description" content="Conoce para qué es y cómo se realiza un estudio de ultrasonido obstétrico" />
-            <meta name="keywords" content="ultrasonido obstetrico, ultrasonido obstetrico que es"/>
+            <meta name="keywords" content="ultrasonido obstetrico, ultrasonido obstetrico que es, ultrasonido obstetrico CDMX"/>
         </Head>
 
         <div>

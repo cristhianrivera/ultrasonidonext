@@ -61,7 +61,7 @@ class Layout extends React.Component {
                     <meta property="og:image" content="https://www.ultrasonidomed.com/static/images/logoUM.jpg" />  
                     <meta name="ultrasonido médico diagnóstico" content="información sobre consultorio médico especializado en ultrasonido médico diagnóstico en la Colonia Roma, Ciudad de México" />
                     <meta name="keywords" content="ultrasonido medico CDMX, ultrasonido medico diagnostico"/>
-                    <link href="/static/css/skel.css" rel="stylesheet" />
+                    {/* <link href="/static/css/skel.css" rel="stylesheet" /> */}
                     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" />
                     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i" rel="stylesheet" />
                 </Head>

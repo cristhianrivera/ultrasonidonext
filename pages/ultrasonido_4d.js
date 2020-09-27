@@ -9,7 +9,7 @@ export default () => (
         <Head>
             <title>Ultrasonido en 4d</title>
             <meta name="description" content="conoce cómo es y para qué sirve un ultrasonido 4d (cuarta dimensión)" />
-            <meta name="keywords" content="ultrasonido musculoesqueletico, que es el ultrasonido en 4d"/>
+            <meta name="keywords" content="ultrasonido cuarta dimension, que es el ultrasonido en 4d, ultrasonido 4d CMDX"/>
         </Head>
 
         <div>
