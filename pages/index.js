@@ -88,10 +88,10 @@ export default () => (
                             
                         </header>
                         <ul className="alt">
-                            <li>Médico General por la Universidad Nacional Autónoma de México (UNAM).</li>
+                            <li>Médico General por la Universidad Nacional Autónoma de México (<a href="http://www.facmed.unam.mx/" target="_blank" title="UNAM">UNAM</a>).</li>
                             <li>Médico certificado por International Certification and Education Accreditation Foundation (ICEAF).</li>
-                            <li>Médico Ultrasonografísta AMUSEM.</li>
-                            <li>Médico adscrito al ISSSTE.</li>
+                            <li>Médico Ultrasonografísta <a href="https://www.amusem.org/news" target="_blank" title="AMUSEM"> AMUSEM</a>.</li>
+                            <li>Médico adscrito al <a href="https://www.gob.mx/issste" target="_blank" title="ISSSTE">ISSSTE</a>.</li>
                         </ul>
                     </div>
                     {/* <div className="inner">
