@@ -48,8 +48,8 @@ class Layout extends React.Component {
                                 gtag('config', 'UA-109100491-2');
                             `,
                         }}/>
-                    <title>Ultrasonido médico general y de alta especialidad en CDMX</title>
-                    /*<meta name="description" content="Ultrasonido médico general y de alta especialidad." />*/
+                    <title>Ultrasonido médico en CDMX</title>
+                    <meta name="description" content="Ultrasonido médico general y de alta especialidad en CDMX." />
                     <meta property="og:type" content="website" />
                     <meta name="og:title" property="og:title" content="ultrasonido médico diagnóstico" />
                     <meta name="og:description" property="og:description" content="Ultrasonido médico con equipo de última generación en la colonia Roma CDMX." />
