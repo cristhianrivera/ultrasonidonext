@@ -31,7 +31,7 @@ export default () => (
                             <Link href=""><a className="button" title="Leer más">Leer más</a></Link>
                             </div>
                         </header>
-                        <Link href="/ultrasonido_4d"><a className="link primary" title="Más información sobre el ultrasonido 4d"></a></Link>
+                        <Link href="/ultrasonido4d"><a className="link primary" title="Más información sobre el ultrasonido 4d"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pregnancyNew_best.jpg')`}}>
                         <header className="major">
