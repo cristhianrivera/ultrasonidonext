@@ -1,9 +1,5 @@
 import Head from "next/head"
 import stylesheet from 'styles/main.scss'
-
-import Header from './Header'
-import Menu from './Menu'
-import Contact from './Contact_beta'
 import Footer from './Footer'
 
 class Layout extends React.Component {
@@ -52,7 +48,7 @@ class Layout extends React.Component {
                     <meta name="description" content="Ultrasonido médico general y de alta especialidad en CDMX." />
                     <meta property="og:type" content="website" />
                     <meta name="og:title" property="og:title" content="ultrasonido médico diagnóstico" />
-                    <meta name="og:description" property="og:description" content="Ultrasonido médico con equipo de última generación en la colonia Roma CDMX." />
+                    <meta name="og:description" property="og:description" content="consultorio de ultrasonido médico con equipo de última generación en la colonia Roma CDMX." />
                     <meta property="og:site_name" content="ultrasonido médico diagnóstico" />
                     <meta property="url" content="https://www.ultrasonidomed.com/" />  
                     <meta property="og:url" content="https://www.ultrasonidomed.com/" />  
@@ -67,13 +63,9 @@ class Layout extends React.Component {
                 </Head>
                 <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
                 <div id="wrapper">
-                    {/* <Header onToggleMenu={this.handleToggleMenu} /> */}
                     {this.props.children}
-                    {/* <Contact /> */}
                     <Footer />
                 </div>
-                <Menu onToggleMenu={this.handleToggleMenu} />
-
             </div>
         )
     }
