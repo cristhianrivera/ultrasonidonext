@@ -7,7 +7,9 @@ export default () => (
         <Head>
             <title>Cómo funciona un equipo de ultrasonido</title>
             <meta name="description" content="Conoce cómo funciona y porqué es 100% seguro un equipo de ultrasonido" />
-            <meta name="keywords" content="ultrasonido como funciona, que es el ultrasonido"/>
+            <meta name="keywords" content="ultrasonido como funciona, que es el ultrasonido, como funciona un equipo de ultrasonido, que hace un ultrasonido"/>
+            <meta property="url" content="https://www.ultrasonidomed.com/funciona-ultrasonido" />  
+            <meta name="title" property="title" content="ultrasonido en cuarta dimension" />
         </Head>
 
         <div id="main" className="alt">

@@ -13,6 +13,7 @@ pages/generic.js
 pages/landing.js
 pages/Contact.js
 pages/Contact_beta.js
+pages/ContactForm.js
 static/images/maths.jpg
 static/images/abdominal_idx.jpg
 static/images/musculoEsc.jpg

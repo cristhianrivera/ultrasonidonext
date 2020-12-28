@@ -1,6 +1,6 @@
 const Footer = (props) => (
     <footer id="footer">
-        <div className="inner">
+        <div className="inner" >
         <h2>Contacto:</h2>
         <p>Al momento de realizar su cita, por favor mencione el estudio que se desea realizar.</p>
             <ul className="icons">

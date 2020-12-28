@@ -9,7 +9,9 @@ export default () => (
         <Head>
             <title>Ultrasonido de tiroides</title>
             <meta name="description" content="Conoce las características y la utilidad de un ultrasonido de tiroides" />
-            <meta name="keywords" content="ultrasonido tiroideo, ultrasonido tiroideo para que sirve, ultrasonido tiroides CDMX"/>
+            <meta name="keywords" content="ultrasonido tiroideo, ultrasonido tiroideo para que sirve, ultrasonido tiroides CDMX, ultrasonido tiroides"/>
+            <meta property="url" content="https://www.ultrasonidomed.com/tiroideo" />  
+            <meta name="title" property="title" content="ultrasonido tiroideo" />
         </Head>
 
         <div>

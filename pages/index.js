@@ -13,16 +13,7 @@ export default () => (
 
             <div id="main">
                 <section id="one" className="tiles">
-                    <article style={{backgroundImage: `url('/static/images/Doppler_best.jpg')`}}>
-                        <header className="major">
-                            <h3>Ultrasonido tiroideo</h3>
-                            <div className="inner">
-                            <p>Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.</p>
-                            <Link href=""><a className="button" title="Leer más">Leer más</a></Link>
-                            </div>
-                        </header>
-                        <Link href="/tiroideo"><a className="link primary" title="Más información sobre el ultrasonido tiroideo"></a></Link>                        
-                    </article>
+                    
                     <article style={{backgroundImage: `url('/static/images/4d1.jpg')`}}>
                         <header className="major">
                             <h3>Ultrasonido en 4d</h3>
@@ -32,6 +23,16 @@ export default () => (
                             </div>
                         </header>
                         <Link href="/ultrasonido4d"><a className="link primary" title="Más información sobre el ultrasonido 4d"></a></Link>
+                    </article>
+                    <article style={{backgroundImage: `url('/static/images/Doppler_best.jpg')`}}>
+                        <header className="major">
+                            <h3>Ultrasonido tiroideo</h3>
+                            <div className="inner">
+                            <p>Ecografía que produce imágenes de la glándula tiroides y estructuras adyacentes en el cuello, utilizada principalmente para evaluar nódulos que se detectan en exámenes físicos rutinarios, así como otros no palpables.</p>
+                            <Link href=""><a className="button" title="Leer más">Leer más</a></Link>
+                            </div>
+                        </header>
+                        <Link href="/tiroideo"><a className="link primary" title="Más información sobre el ultrasonido tiroideo"></a></Link>                        
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pregnancyNew_best.jpg')`}}>
                         <header className="major">
@@ -94,13 +95,6 @@ export default () => (
                             <li>Médico adscrito al <a href="https://www.gob.mx/issste" target="_blank" title="ISSSTE">ISSSTE</a>.</li>
                         </ul>
                     </div>
-                    {/* <div className="inner">
-                        <header className="major">
-                            <h2>¿Qué es el ultrasonido?</h2>
-                        </header>
-                        <p>El ultrasonido es un tipo de onda sonora de alta frecuencia que, en medicina, se utiliza para rehabilitación y diagnósis. Éste último es una herramienta para analizar estructuras internas del cuerpo humano, como: corazón, vasos sanguineos, riñones, hígado, así como otros órganos. Durante el embarazo, los médicos también utilizan el ultrasonido para dar seguimiento al bebé.</p>
-                    </div> */}
-
                 </section>
                 
             </div>

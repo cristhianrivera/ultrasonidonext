@@ -9,7 +9,9 @@ export default () => (
         <Head>
             <title>Ultrasonido musculoesquelético</title>
             <meta name="description" content="conoce cómo es y para qué sirve un ultrasonido músculo esquelético" />
-            <meta name="keywords" content="ultrasonido musculoesqueletico, que es el ultrasonido musculoesqueletico, ultrasonido musculoesqueletico CDMX"/>
+            <meta name="keywords" content="ultrasonido musculoesqueletico, que es el ultrasonido musculoesqueletico, ultrasonido musculoesqueletico CDMX, para que es un ultrasonido musculoesqueletico"/>
+            <meta property="url" content="https://www.ultrasonidomed.com/musculo" />  
+            <meta name="title" property="title" content="ultrasonido musculoesqueletico" />
         </Head>
 
         <div>
